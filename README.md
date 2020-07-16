@@ -31,3 +31,16 @@ Be sure to implement the 9-slice boxes around each Text field
 
 Use professional scripting practices, such as descriptive method names and comments, to make sure your code is easy to read by other programmers.
 Use professional scripting practices, such as descriptive method names and comments, to make sure your code is easy to read by other programmers.
+
+
+# New Files 
+
+### UIController.cs
+### ScoreController.cs
+### JumpController.cs
+### GameOver.cs
+
+# Updated Files
+
+### Playership.cs
+### Asteroids.cs
